@@ -1,0 +1,17 @@
+.main-content {
+  display: flex;
+}
+
+#left-content {
+  width: 30%;
+  border-style: solid;
+  border-color: #c1c1c1;
+  border-width: 1.5px;
+}
+
+#right-content {
+  width: 70%;
+  border-style: solid;
+  border-color: #c1c1c1;
+  border-width: 1px;
+}
